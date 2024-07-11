@@ -1,0 +1,24 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¨Ç¶©8‚‰óÿ‹2
+U
+java:S1854"8Remove this useless assignment to local variable "num2".(ôñíê8…‰óÿ‹2
+Z
+java:S1854"8Remove this useless assignment to local variable "oper".(ï•å½ûÿÿÿÿ8…‰óÿ‹2
+U
+java:S1854"8Remove this useless assignment to local variable "num1".(–“”à8…‰óÿ‹2
+U
+java:S1854"8Remove this useless assignment to local variable "calc".(ø¢€˜8…‰óÿ‹2
+F
+java:S2440")Remove this instantiation of "Calculate".(ø¢€˜8‡‰óÿ‹2
+F
+java:S1481")Remove this unused "calc" local variable.(ø¢€˜8‡‰óÿ‹2
+G	java:S106"+Replace this use of System.out by a logger.(”‡ñ©8‡‰óÿ‹2
+F
+java:S1481")Remove this unused "num1" local variable.(–“”à8ˆ‰óÿ‹2
+G	java:S106"+Replace this use of System.out by a logger.(þÅ¯º8ˆ‰óÿ‹2
+K
+java:S1481")Remove this unused "oper" local variable.(ï•å½ûÿÿÿÿ8ˆ‰óÿ‹2
+F	java:S106"+Replace this use of System.out by a logger.(¶ÞÌt8ˆ‰óÿ‹2
+F
+java:S1481")Remove this unused "num2" local variable.(ôñíê8‰‰óÿ‹2
