@@ -1,24 +1,18 @@
 
-W
-java:S1118":Add a private constructor to hide the implicit public one.(¨Ç¶©8‚‰óÿ‹2
-U
-java:S1854"8Remove this useless assignment to local variable "num2".(ôñíê8…‰óÿ‹2
-Z
-java:S1854"8Remove this useless assignment to local variable "oper".(ï•å½ûÿÿÿÿ8…‰óÿ‹2
-U
-java:S1854"8Remove this useless assignment to local variable "num1".(–“”à8…‰óÿ‹2
-U
-java:S1854"8Remove this useless assignment to local variable "calc".(ø¢€˜8…‰óÿ‹2
-F
-java:S2440")Remove this instantiation of "Calculate".(ø¢€˜8‡‰óÿ‹2
-F
-java:S1481")Remove this unused "calc" local variable.(ø¢€˜8‡‰óÿ‹2
-G	java:S106"+Replace this use of System.out by a logger.(”‡ñ©8‡‰óÿ‹2
-F
-java:S1481")Remove this unused "num1" local variable.(–“”à8ˆ‰óÿ‹2
-G	java:S106"+Replace this use of System.out by a logger.(þÅ¯º8ˆ‰óÿ‹2
-K
-java:S1481")Remove this unused "oper" local variable.(ï•å½ûÿÿÿÿ8ˆ‰óÿ‹2
-F	java:S106"+Replace this use of System.out by a logger.(¶ÞÌt8ˆ‰óÿ‹2
-F
-java:S1481")Remove this unused "num2" local variable.(ôñíê8‰‰óÿ‹2
+}
+java:S1118":Add a private constructor to hide the implicit public one.(¨Ç¶©8¡Å«§Œ2J$f7b61342-e857-40a4-9f4c-f81221105a65
+{
+java:S1854"8Remove this useless assignment to local variable "calc".(ø¢€˜8£Å«§Œ2J$b72d60e2-904a-43e3-b7f7-1da7a18fa23d
+l
+java:S2440")Remove this instantiation of "Calculate".(ø¢€˜8¥Å«§Œ2J$ad5aabad-4a3c-46dc-a8cb-55a0d217ae3b
+l
+java:S1481")Remove this unused "calc" local variable.(ø¢€˜8¥Å«§Œ2J$a600be6a-b6bf-4669-93b9-22d620f8c1c7
+m	java:S106"+Replace this use of System.out by a logger.(”‡ñ©8¥Å«§Œ2J$37fd9c81-c923-4433-b6fb-dd4ac59505b8
+m	java:S106"+Replace this use of System.out by a logger.(þÅ¯º8¦Å«§Œ2J$d980a02a-8d73-45e9-85d8-04121cb76966
+l	java:S106"+Replace this use of System.out by a logger.(¶ÞÌt8¦Å«§Œ2J$0b1478e4-9008-42ae-beb5-4f88983dae5e
+r	java:S106%"+Replace this use of System.out by a logger.(éß¯óüÿÿÿÿ8§Å«§Œ2J$a964fd0f-d869-48e6-8224-664952e55add
+r	java:S106)"+Replace this use of System.out by a logger.(éß¯óüÿÿÿÿ8§Å«§Œ2J$6a992b28-d7a1-42d5-8360-657a40f2c492
+r	java:S106-"+Replace this use of System.out by a logger.(éß¯óüÿÿÿÿ8§Å«§Œ2J$90e26001-324d-4fbf-b953-c8786f32679d
+m	java:S1061"+Replace this use of System.out by a logger.(ó—±Ÿ8§Å«§Œ2J$14fbdf76-697b-4293-9708-32d950a60c80
+r	java:S1064"+Replace this use of System.out by a logger.(éß¯óüÿÿÿÿ8¨Å«§Œ2J$24ba24ad-0db0-49a2-8333-c01c067a22ed
+r	java:S1068"+Replace this use of System.out by a logger.(‘’•§ùÿÿÿÿ8¨Å«§Œ2J$a24e418a-31bf-4f87-84f5-fb17a3a36b25

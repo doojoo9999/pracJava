@@ -30,5 +30,33 @@ public class Main {
         System.out.print("두 번째 숫자를 입력하세요: ");
         int num2 = sc.nextInt();
 
+        int result;
+        switch (oper) {
+            case '+':
+                result = Calculate.add(num1, num2);
+                System.out.println("결과: " + result);
+                break;
+            case '-':
+                result = Calculate.min(num1, num2);
+                System.out.println("결과: " + result);
+                break;
+            case '*':
+                result = Calculate.mul(num1, num2);
+                System.out.println("결과: " + result);
+                break;
+            case '/':
+                if (num2 == 0) {
+                    System.out.println("0으로 나눌 수 없습니다.");
+                } else {
+                    result = Calculate.div(num1, num2);
+                    System.out.println("결과: " + result);
+                }
+                break;
+            default:
+                System.out.println("올바른 사칙연산 기호를 입력하세요.");
+        }
+
+        sc.close();
+
     }
 }
